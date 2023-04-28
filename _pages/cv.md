@@ -9,51 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+* Machine Learning
+* Artificial Intelligence
+* Natural Language Processing
+* Data Science
+* Social science
+* Data Mining
+* Deep Learning
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Alzahra University, Tehran, Iran 
+  * B.Sc. in Computer Science, Faculty Of Mathematical Sciences 2016 - 2020(expected)
+  * GPA: (3.2/4)
+  
+Research and Academic experience
+======
+* Explainable Detection of Online Sexism (EDOS)                                             
+  * Research on SemEval 2023 dataset of Gab and Reddit. This research consists of three tasks of flagging what is                   sexist content and also explaining why it is sexist, experiencing state-of-the-art NLP models. 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data mining project with heart disease dataset from Kaggle using Python               
+	* Used supervised and unsupervised algorithms (k-nearest neighbor, 
+ 	  naive bayes, logistic regression, decision tree, k-means, one-r)
+* Movie recommendation system with MovieLens 100k dataset using Python           
+* Decaf language Compiler using Python                                                                     
+* Titanic Competition on Kaggle using Python                                                             
+* Sheypour project, one of the Iranian website to sale and buy products, using Java                         
+* Database library project by SQL   
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+skills
+======
+*  Programming :
+  * Python, Java, C, C++, R
+* Frameworks and Tools :
+  * Numpy, Pandas, Sklearn, Matplotlib, TensorFlow
+* Web Development :
+  * JavaScript, HTML, CSS
+* Database :
+  * SQL, MangoDB
   
-Skills
+Notable courses
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<pre>
+Probability: 17/20                                Matrix and Linear Algebra: 17.75/20          
+Combinatorics: 18.5/20                            Database: 16.2/20   
+Data Structure And Algorithms : 17.5/20           Data Mining: 20/20
+Artificial Intelligence: 17.75/20                 Final Undergraduate Project: 19/20 
+</pre>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
