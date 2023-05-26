@@ -22,7 +22,7 @@ Research Interest
 Education
 ======
 * Alzahra University, Tehran, Iran 
-  * B.Sc. in Computer Science, Faculty Of Mathematical Sciences 2016 - 2020(expected)
+  * B.Sc. in Computer Science, Faculty Of Mathematical Sciences 2019 - 2023(expected)
   * GPA: (3.2/4)
   
 Research and Academic experience
