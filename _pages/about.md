@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student finishing my Bachelor of Science from Alzahra University. I'm fascinated with ML and AI, especially interested in Natural Language Process and its use in social networks, Recommender Systems. I have done several research projects in these areas.
+I am a graduate student studying my Master of Computer Science in Brock University under the supervison of Dr.Rahnuma Islam Nishat(https://brocku.ca/mathematics-science/computer-science/faculty-staff/rahnuma-nishat/). I'm working on Graph Theory and 3D Printing. Additionally, I'm fascinated with ML and AI, especially interested in Natural Language Process and its use in social networks, Recommender Systems. I have done several research projects in these areas.
 
+Enhancing Sentence Relatedness Assessment using Siamese Networks
+------
 
 
 Explainable detection of online sexism (EDOS)
@@ -26,4 +28,4 @@ Data mining project with heart disease dataset from Kaggle using Python. Used su
 
 Business Data Analyst Intern
 ------
-I am currently working as a Business Data Analyst Intern at Snapptrip, a dynamic company specializing in hotel bookings and ticket sales. In my role, I am tasked with analyzing data to gain insights into customer preferences, market trends, and operational efficiency. This involves extracting meaningful information from large datasets to help the company make informed decisions and enhance the overall user experience. It's an exciting opportunity that allows me to apply my analytical skills in a real-world setting and contribute to the success of a rapidly growing travel and hospitality platform.
+I worked as a Business Data Analyst Intern at Snapptrip, a dynamic company specializing in hotel bookings and ticket sales. In my role, I was tasked with analyzing data to gain insights into customer preferences, market trends, and operational efficiency. This involves extracting meaningful information from large datasets to help the company make informed decisions and enhance the overall user experience. It was an exciting opportunity that allowed me to apply my analytical skills in a real-world setting and contribute to the success of a rapidly growing travel and hospitality platform.
