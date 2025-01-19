@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student studying my Master of Computer Science in Brock University under the supervison of Dr.Rahnuma Islam Nishat(https://brocku.ca/mathematics-science/computer-science/faculty-staff/rahnuma-nishat/). I'm working on Graph Theory and 3D Printing. Additionally, I'm fascinated with ML and AI, especially interested in Natural Language Process and its use in social networks, Recommender Systems. I have done several research projects in these areas.
+I am a graduate student studying my Master of Computer Science in Brock University under the supervison of [Dr.Rahnuma Islam Nishat](https://brocku.ca/mathematics-science/computer-science/faculty-staff/rahnuma-nishat/). I'm working on Graph Theory and 3D Printing. Additionally, I'm fascinated with ML and AI, especially interested in Natural Language Process and its use in social networks, Recommender Systems. I have done several research projects in these areas.
 
 Enhancing Sentence Relatedness Assessment using Siamese Networks
 ------
