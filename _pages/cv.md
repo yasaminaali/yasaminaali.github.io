@@ -15,15 +15,17 @@ Research Interest
 * Artificial Intelligence
 * Natural Language Processing
 * Data Science
-* Social science
+* Social Science
 * Data Mining
 * Deep Learning
+* Graph Theory
 
 Education
 ======
+* Brock University, Ontario, Canada 
+  * M.Sc. in Computer Science, Faculty Of Mathematical Sciences 2024 - 2026
 * Alzahra University, Tehran, Iran 
   * B.Sc. in Computer Science, Faculty Of Mathematical Sciences 2019 - 2023
-  * GPA: (3.2/4)
   
 Research and Academic experience
 ======
