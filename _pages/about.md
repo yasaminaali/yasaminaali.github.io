@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student studying my Master of Computer Science in Brock University under the supervison of [Dr.Rahnuma Islam Nishat](https://brocku.ca/mathematics-science/computer-science/faculty-staff/rahnuma-nishat/). I'm working on Graph Theory and 3D Printing. Additionally, I'm fascinated with ML and AI, especially interested in Natural Language Process and its use in social networks, Recommender Systems. I have done several research projects in these areas.
+I am a graduate student studying my Master of Computer Science in Brock University under the supervison of [Dr.Rahnuma Islam Nishat](https://brocku.ca/mathematics-science/computer-science/faculty-staff/rahnuma-nishat/). I am passionate about applying AI, deep learning, and graph theory to optimize processes in 3D printing. I also work on NLP and data analysis projects that focus on practical applications of machine intelligence.
+
+Business Data Analyst Intern
+------
+I worked as a Business Data Analyst Intern at Snapptrip, a dynamic company specializing in hotel bookings and ticket sales. In my role, I was tasked with analyzing data to gain insights into customer preferences, market trends, and operational efficiency. This involves extracting meaningful information from large datasets to help the company make informed decisions and enhance the overall user experience. It was an exciting opportunity that allowed me to apply my analytical skills in a real-world setting and contribute to the success of a rapidly growing travel and hospitality platform.
+
+Optimizing Knowledge Graph Completion with LLM-Driven Evolutionary Augmentation
+------
+We proposed a novel evolutionary-based data augmentation framework that leverages LLMs such as LLaMA3.1 to generate high-quality synthetic triples [paper page](https://drive.google.com/file/d/1_Np3PD5q0jZAOw8oqm6hGj2wfTm4FSpz/view?usp=sharing).
 
 Enhancing Sentence Relatedness Assessment using Siamese Networks
 ------
-
+We proposed a system which integrates a Siamese Network architecture with pre-trained language models, including BERT, RoBERTa, and the Universal Sentence Encoder (USE). Through rigorous experimentation and analysis, we evaluated the performance of these models across multiple languages. Our findings revealed that the Universal Sentence Encoder excels in capturing semantic similarities, outperforming BERT and RoBERTa in most scenarios. Particularly notable is the USE’s exceptional performance in English and Marathi. These results emphasize the importance of selecting appropriate pre-trained models based on linguistic considerations and task requirements [publication page](https://aclanthology.org/2024.semeval-1.138/).
 
 Explainable detection of online sexism (EDOS)
 ------
@@ -26,6 +34,3 @@ Data mining algorithms using heart disease dataset
 ------
 Data mining project with heart disease dataset from Kaggle using Python. Used supervised and unsupervised algorithms (k-nearest neighbor, naive bayes, logistic regression, decision tree, k-means, one-r). You can find more about this project on [it's github code](https://github.com/yasaminaali/DataMining_HeartDisease).
 
-Business Data Analyst Intern
-------
-I worked as a Business Data Analyst Intern at Snapptrip, a dynamic company specializing in hotel bookings and ticket sales. In my role, I was tasked with analyzing data to gain insights into customer preferences, market trends, and operational efficiency. This involves extracting meaningful information from large datasets to help the company make informed decisions and enhance the overall user experience. It was an exciting opportunity that allowed me to apply my analytical skills in a real-world setting and contribute to the success of a rapidly growing travel and hospitality platform.
